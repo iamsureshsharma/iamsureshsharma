@@ -18,4 +18,5 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=iamsureshsharma&count_private=true&show_icons=true&include_all_commits=true&theme=radical" alt="Suresh's github stats" />
 
  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=iamsureshsharma&count_private=true&layout=compact&theme=radical" />
-[![@iamsureshsharma's Holopin board](https://holopin.me/iamsureshsharma)](https://holopin.io/@iamsureshsharma)
+ 
+ [![@iamsureshsharma's Holopin board](https://holopin.me/@iamsureshsharma)](https://holopin.io/@iamsureshsharma)
